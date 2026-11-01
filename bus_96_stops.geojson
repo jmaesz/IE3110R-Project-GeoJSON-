@@ -1,0 +1,215 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Clementi Int",
+        "bus_stop_code": "17009",
+        "sequence": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.76412225438476,
+          1.31491572870629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "NTUC Fairprice",
+        "bus_stop_code": "17239",
+        "sequence": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7658489,
+          1.31244056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Blk 455",
+        "bus_stop_code": "17161",
+        "sequence": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.76685476875124,
+          1.31240993603605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Blk 410",
+        "bus_stop_code": "17151",
+        "sequence": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.76960993525367,
+          1.31169519353522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Blk 365",
+        "bus_stop_code": "17159",
+        "sequence": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7698144,
+          1.31197556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Aft Clementi Ave 1",
+        "bus_stop_code": "17091",
+        "sequence": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.77157783850733,
+          1.30904805161426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "UTown - Cendana",
+        "bus_stop_code": "17099",
+        "sequence": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.77165274445558,
+          1.3078304704809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Coll of Design & Engrg",
+        "bus_stop_code": "16159",
+        "sequence": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.77017032679849,
+          1.30060333385651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "SDE3",
+        "bus_stop_code": "16149",
+        "sequence": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.76994027003138,
+          1.29781833402646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Aft Architecture Dr",
+        "bus_stop_code": "16199",
+        "sequence": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.77072917887465,
+          1.29639303583424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Information Technology",
+        "bus_stop_code": "16189",
+        "sequence": 11
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.772756,
+          1.297228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Opp Yusof Ishak Hse",
+        "bus_stop_code": "16179",
+        "sequence": 12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7741773272528,
+          1.29898164227099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "NUS Raffles Hall",
+        "bus_stop_code": "16169",
+        "sequence": 13
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.77270416701658,
+          1.30098333297992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Clementi Stn Exit A/Mall",
+        "bus_stop_code": "17171",
+        "sequence": 14
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.764861,
+          1.315334
+        ]
+      }
+    }
+  ]
+}
